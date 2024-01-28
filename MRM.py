@@ -48,10 +48,10 @@ def menu():
     clear()
     print(f'{A}[1] RANDOM {G}BD-MIX {A}CLONE ');print(f'{A}[2] RANDOM {G}BD-NEW {A}CLONE');print(f'{A}[3] RANDOM {G}IND {A}CLONE');print(f'{A}[0] EXIT SWAG');linex()
     swag=input(f'{A}[?] CHOICE : ')
-    if swag in '1':randm_bd_mix()
-    if swag in '2':randm_bd_new()
-    if swag in '3':randm_ind()
-    if swag in '0':sys.exit(f'{A}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+    if MRM-X in '1':randm_bd_mix()
+    if MRM-X in '2':randm_bd_new()
+    if MRX-X in '3':randm_ind()
+    if MRM-X in '0':sys.exit(f'{A}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 #________________ RANDOM-BD-MIX _____________# 
 def randm_bd_mix():
      clear()
